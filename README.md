@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nisha Adhikari
 
 🎯 **Aspiring Data Engineer**  
-📚 Currently studying **Data Engineering **
+📚 Currently studying Data Engineering 
 
 ---
 
