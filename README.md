@@ -1,7 +1,7 @@
 👋 Hi, I'm Nisha Adhikari
 
-🎯 Aspiring Data Engineer
-📚 Currently studying Data Engineering 
+ 🎯 Aspiring Data Engineer
+ 📚 Currently studying Data Engineering 
 
 🚀 About Me
 
@@ -9,24 +9,24 @@ I am currently learning data engineering concepts including Python, SQL, and dat
 I enjoy working with data and building systems that transform raw data into meaningful insights.
 
 🛠️ Skills
-Python (OOP, Data Handling)
-SQL (Basic Queries, Joins)
-Data Cleaning
-Git & GitHub
+ Python (OOP, Data Handling)
+ SQL (Basic Queries, Joins)
+ Data Cleaning
+ Git & GitHub
 
 📂 Projects
-🎓 Student Management System (Python OOP)
-📊 CSV Data Cleaner (Python + Pandas)
-🔄 ETL Pipeline Project (In Progress)
+ 🎓 Student Management System (Python OOP)
+ 📊 CSV Data Cleaner (Python + Pandas)
+ 🔄 ETL Pipeline Project (In Progress)
 
 📈 Currently Learning
-Data Engineering Fundamentals
-ETL Pipelines
-APIs & Data Extraction
+ Data Engineering Fundamentals
+ ETL Pipelines
+ APIs & Data Extraction
 
 🎯 Career Goal
 
-To become a Data Engineer and work on scalable data systems.
+ To become a Data Engineer and work on scalable data systems.
 
 📫 Connect with Me
 LinkedIn: 
