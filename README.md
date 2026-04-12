@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Nisha Adhikari
 
-🎯 **Aspiring Data Engineer**
--📚 Currently studying **Data Engineering **
+🎯 **Aspiring Data Engineer**  
+📚 Currently studying **Data Engineering **
 
 ---
 
 ## 🚀 About Me
 
-I am currently learning data engineering concepts including Python, SQL, and data pipelines.
+I am currently learning data engineering concepts including Python, SQL, and data pipelines.   
 I enjoy working with data and building systems that transform raw data into meaningful insights.
 
 ---
