@@ -1,63 +1,50 @@
 # 👋 Hi, I'm Nisha Adhikari
 
-🎯 **Aspiring Data Engineer**  
-📚 Currently studying Data Engineering 
+👩‍💻 Aspiring Data Engineer | 📊 Data Analytics Learner | ☁️ Cloud Enthusiast
 
----
+Passionate about building data pipelines, transforming raw data into meaningful insights, and continuously learning modern data technologies.  
+Focused on creating scalable, efficient, and reliable data solutions for real-world business problems.
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I am currently learning data engineering concepts including Python, SQL, and data pipelines.   
-I enjoy working with data and building systems that transform raw data into meaningful insights.
+- Learn and build data pipelines & ETL workflows  
+- Analyze data using SQL, Python, and Pandas  
+- Practice real-world projects in data engineering and analytics  
+- Explore cloud platforms like AWS and Google Cloud  
+- Build GitHub projects to showcase technical growth  
+- Improve problem-solving through hands-on learning  
 
----
+## 💻 Tech Stack
 
-## 🛠️ Skills
+**Languages:** Python, SQL  
+**Data Tools:** Pandas, Jupyter Notebook, Excel  
+**Databases:** MySQL, PostgreSQL  
+**Cloud:** AWS (Learning),Azure, Google Cloud (Learning)  
+**Tools:** Git, GitHub, VS Code  
+**Concepts:** ETL, Data Cleaning, APIs, Data Modeling  
 
-* 🐍 Python (OOP, Data Handling)
-* 🗄️ SQL (Basic Queries, Joins)
-* 📊 Data Cleaning
-* 🔧 Git & GitHub
+## 📂 Featured Projects
 
----
-
-## 📂 Projects
-
-* 🎓 **Student Management System (Python OOP)**
-* 📊 **CSV Data Cleaner (Python + Pandas)**
-* 🔄 **ETL Pipeline Project (In Progress)**
-
----
+- 🎓 Student Management System (Python OOP)  
+- 📊 SQL Sales & Employee Analysis Project  
+- 🧹 CSV Data Cleaner using Python + Pandas  
+- 🔄 ETL Pipeline Project (In Progress)  
 
 ## 📈 Currently Learning
 
-* Data Engineering Fundamentals
-* ETL Pipelines
-* APIs & Data Extraction
-
----
+- Data Engineering Fundamentals  
+- Advanced SQL & Window Functions  
+- Apache Spark Basics  
+- AWS Cloud Services  
+- APIs & Data Extraction  
 
 ## 🎯 Career Goal
 
-To become a Data Engineer and work on scalable data systems.
+To become a Data Engineer at a top tech company and build scalable data systems that solve real-world problems.
 
----
+## 🌐 Connect With Me
 
-## 📫 Connect with Me
+💼 LinkedIn:www.linkedin.com/in/nisha-adhikari10
+📧 Email:nishadhkry@gmail.com 
 
-* LinkedIn:
-
-<!--
-**nishadhkry/nishadhkry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Always learning, building, and improving — because strong data systems create strong decisions.
