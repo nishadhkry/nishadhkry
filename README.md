@@ -55,7 +55,7 @@ To become a Data Engineer at a top tech company and build scalable data systems 
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn:www.linkedin.com/in/nisha-adhikari10
-📧 Email:nishadhkry@gmail.com 
+-💼 LinkedIn:www.linkedin.com/in/nisha-adhikari10
+-📧 Email:nishadhkry@gmail.com 
 
 ✨ Always learning, building, and improving — because strong data systems create strong decisions.
