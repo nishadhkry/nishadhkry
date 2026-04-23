@@ -15,13 +15,9 @@ Focused on creating scalable, efficient, and reliable data solutions for real-wo
 - Improve problem-solving through hands-on learning  
 
 ## 💻 Tech Stack
-
-**Languages:** Python, SQL  
-**Data Tools:** Pandas, Jupyter Notebook, Excel  
-**Databases:** MySQL, PostgreSQL  
-**Cloud:** AWS (Learning),Azure, Google Cloud (Learning)  
-**Tools:** Git, GitHub, VS Code  
-**Concepts:** ETL, Data Cleaning, APIs, Data Modeling  
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![AWS](https://img.shields.io/badge/AWS-black)
 
 ## 📂 Featured Projects
 
