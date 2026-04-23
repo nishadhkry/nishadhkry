@@ -14,7 +14,7 @@ Focused on creating scalable, efficient, and reliable data solutions for real-wo
 - Build GitHub projects to showcase technical growth  
 - Improve problem-solving through hands-on learning  
 
-## 💻 Tech Stack
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
